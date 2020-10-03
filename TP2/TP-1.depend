@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1588954678 source:c:\users\suare\desktop\¿tp-1\-tp_laboratorio_1--master\tp-1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1599878657 c:\users\suare\desktop\¿tp-1\-tp_laboratorio_1--master\tp-1\calculadora.h
+
+1588954678 source:c:\users\suare\desktop\¿tp-1\-tp_laboratorio_1--master\tp-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1599938283 source:c:\users\suare\desktop\tp-1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1599940858 c:\users\suare\desktop\tp-1\calculadora.h
+
+1599938001 source:c:\users\suare\desktop\tp-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1599938283 source:c:\users\suare\desktop\1°er año - segundo cuatrimestre\trabajos prácticos (1 - s.c)\tp-1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1599940858 c:\users\suare\desktop\1°er año - segundo cuatrimestre\trabajos prácticos (1 - s.c)\tp-1\calculadora.h
+
+1599938001 source:c:\users\suare\desktop\1°er año - segundo cuatrimestre\trabajos prácticos (1 - s.c)\tp-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
